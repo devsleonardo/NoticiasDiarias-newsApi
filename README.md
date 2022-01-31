@@ -1,6 +1,6 @@
 # (NewsApi) Noticias diarias
 
-Uma pequena aplicaçao de notícias diarias, sobre qualquer tema, boletins diários em pt ou us.
+Uma pequena aplicaçao de notícias, sobre qualquer tema, boletins diários ao redor do mundo
 
 ### Instalação
 Você precisa ter esse repositório, é simples, rode os comandos abaixo, em caso de erros, rode como sudo/administrador.
