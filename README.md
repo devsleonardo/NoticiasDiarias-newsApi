@@ -1,4 +1,4 @@
-# Notícias diarias
+# (NewsApi) Noticias diarias
 
 Uma pequena aplicaçao de notícias diarias, sobre qualquer tema, boletins diários em pt ou us.
 
