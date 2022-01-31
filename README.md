@@ -20,5 +20,5 @@ Após a instalação, rode o comando abaixo e espere iniciar.
 
 ## Modelo da aplicação
 
- <img src="..." alt="Modelo da aplicação"/>
+ <img src="https://github.com/devsleonardo/newsApi-NoticiasDiarias/blob/main/src/assets/gif/NewsApi.gif" alt="Modelo da aplicação"/>
 
