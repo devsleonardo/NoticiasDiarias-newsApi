@@ -1,0 +1,10 @@
+@import 'color';
+
+.nav-color {
+  letter-spacing: 1px;
+  color: $white;
+  transition: all 0.7s ease-in-out;
+  &:hover {
+    color: $red;
+  }
+}
